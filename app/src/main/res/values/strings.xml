@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SE</string>
+    <string name="connection_problems">Server communication failed!</string>
+    <string name="search">Search</string>
+</resources>
